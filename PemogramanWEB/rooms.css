@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #eec6819c;
+    background-image: url(backgroundrooms.png); 
+    background-size: 1500px;
+    background-position: center;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #E4B7AD ;
+    color: black;
+    height: 70px;
+    width: 100%;
+    position: fixed;
+}
